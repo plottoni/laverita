@@ -650,5 +650,13 @@ footer p {
     .launch-card .news-card-title {
         font-size: 1.4rem;
     }
+    .disclaimer {
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 0.85rem;
+  color: #666;
+  background: #f5f5f5;
+  text-align: center;
+}
 }
 
