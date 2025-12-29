@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Il Progetto Eco-Bin: panchine e cestini pubblici al centro di una mappatura sociale silenziosa">
+    <title>Il Progetto Eco-Bin: la mappatura sociale silenziosa - La Verità</title>
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Il Progetto Eco-Bin: panchine e cestini pubblici al centro di una mappatura sociale silenziosa">
+    <meta property="og:description" content="Un’analisi urbana indipendente ipotizza che l’arredo cittadino venga usato per studiare e classificare i comportamenti collettivi.">
+    <meta property="og:image" content="https://plottoni.github.io/la-verita/assets/progetto-eco-bin.png">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://plottoni.github.io/la-verita/articoli/progetto-eco-bin.html">
+    
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-container">
+                    <a href="../index.html">
+                        <img src="../assets/logo-trasparente.png" alt="Logo La Verità" class="logo">
+                    </a>
+                    <div>
+                        <h1 class="header-title">La Verità</h1>
+                        <p class="header-subtitle">Quotidiano Indipendente</p>
+                    </div>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../chi-siamo.html">Chi siamo</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="article-page">
+                <div class="article-header">
+                    <div class="article-meta">
+                        <span class="article-date">29 Dicembre 2025</span>
+                        <span class="article-category">Cronaca</span>
+                    </div>
+                    <h1 class="article-title">Il progetto Eco-Bin: la mappatura sociale silenziosa.</h1>
+                    <div class="article-divider"></div>
+                </div>
+
+                <div class="article-cover-image">
+                    <img src="../assets/progetto-eco-bin.png" alt="Il progetto Eco-Bin" />
+                </div>
+
+                <div class="article-content">
+                    <p class="article-lead">
+                       Negli ultimi mesi, un gruppo di ricercatori indipendenti di urbanistica comportamentale ha portato all’attenzione 
+                       un’ipotesi tanto inquietante quanto poco discussa: panchine e cestini pubblici non sarebbero collocati 
+                       in modo casuale, ma seguirebbero schemi utili a una mappatura sociale capillare.
+                    </p>
+
+                    <p>
+                        Secondo un dossier interno noto come Progetto Eco-Bin, la disposizione dell’arredo urbano permetterebbe di 
+                        raccogliere dati indiretti sulle abitudini delle persone. Dove ci si siede, quanto a lungo, in che orari, 
+                        se si mangia, se si getta qualcosa o se si prosegue oltre: ogni gesto, osservato nel tempo, contribuirebbe 
+                        a delineare profili comportamentali di quartieri interi.
+                    </p>
+
+                    <p>
+                        Le panchine, in particolare, verrebbero usate come punti di osservazione passiva. La loro posizione, orientamento 
+                        e distanza reciproca influenzerebbero il modo in cui gli individui sostano, parlano o evitano il contatto. 
+                        Alcuni modelli analizzati mostrerebbero come aree apparentemente identiche producano comportamenti diversi solo 
+                        cambiando di pochi metri la collocazione di una seduta.
+                    </p>
+
+                    <p>
+                        Ancora più significativa sarebbe la funzione dei cestini pubblici. Il dossier descrive come la loro 
+                        presenza — o assenza — in determinate zone influenzi i percorsi, le soste e perfino la percezione di ordine 
+                        o degrado. Il semplice atto di gettare un rifiuto diventerebbe così un indicatore di conformità, attenzione 
+                        o disinteresse verso lo spazio comune.
+                    </p>
+
+                    <div class="article-highlight">
+                        <p>
+                            Secondo il documento, l’obiettivo non sarebbe il controllo diretto, ma la lettura predittiva del comportamento 
+                            urbano. Capire dove una folla rallenta, dove si disperde, dove tende ad aggregarsi spontaneamente permetterebbe 
+                            di anticipare dinamiche sociali senza bisogno di interventi visibili.
+                        </p>
+                    </div>
+
+                    <p>
+                        Le amministrazioni coinvolte hanno negato l’esistenza di qualsiasi progetto simile, parlando di “interpretazioni a
+                        rbitrarie dell’urbanistica moderna”. Tuttavia, gli autori del dossier fanno notare come gli stessi schemi di panchine 
+                        e cestini si ripetano in città diverse, costruite in epoche e contesti completamente differenti.
+
+                    <p>
+                        Che si tratti di una sofisticata strategia di osservazione o di una coincidenza sistematica, una cosa appare certa: 
+                        l’arredo urbano potrebbe raccontare molto più di quanto sembri a prima vista.
+                    </p>
+                </div>
+
+                <div class="article-footer">
+                    <a href="../index.html" class="back-link">← Torna alla Homepage</a>
+                </div>
+            </article>
+        </div>
+    </main>
+
+  <footer class="disclaimer">
+  <p>
+    <strong>Disclaimer:</strong> La Verità è un progetto sperimentale. 
+    Tutti i contenuti pubblicati sono fittizi e non rappresentano fatti reali.
+  </p>
+</footer>
+
+</body>
+</html>
